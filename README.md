@@ -16,8 +16,8 @@ This repository is created for the Stats220 course. Its primary purpose is to ho
 
 ### Engage with This Repo
 <!--- unordered lists --->
-* **Follow me** to stay updated with my latest projects 📣
-* Feel free to **watch this repository** to get notifications on updates or changes 👀
+* **Follow me** to stay updated with my latest projects 👀
+* Feel free to **watch this repository** to get notifications on updates or changes 📣
 * You can even **⭐️ the repo** if you find it useful or interesting!
 
 *For more information, visit [Stats220 Course Page](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243).*
